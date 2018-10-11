@@ -11,4 +11,4 @@ The projects/exercises are divided in 17 weeks (represented by the folders week-
 1. [Link to my "website" on GitHub](https://github.com/SamHerrera88)
 
 2. Link to TODO Application done in week-04 day-04 and day-05:
-   * [todo-app](https://github.com/SamHerrera88/todo-app)
+   * [TODO-app](https://github.com/SamHerrera88/todo-app)
